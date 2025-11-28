@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Chance%20GitHub)
-![Chance's Stats](https://github-readme-stats.vercel.app/api?username=Janghanju&theme=vision-friendly-dark)
+![Chance's Stats](https://github-readme-stats.vercel.app/api?username=janghanju&theme=vision-friendly-dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Janghanju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
