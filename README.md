@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Janghanju&show_icons=true&theme=vision-friendly-dark" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=janghanju&show_icons=true&theme=vision-friendly-dark" height="160px"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janghanju&layout=compact&theme=vision-friendly-dark" height="160px"/>
 
