@@ -36,18 +36,12 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Janghanju&show_icons=true&theme=vision-friendly-dark&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=janghanju&show_icons=true&theme=vision-friendly-dark&count_private=true" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janghanju&layout=compact&theme=vision-friendly-dark&langs_count=6" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghanju&layout=compact&theme=vision-friendly-dark&langs_count=6" width="100%"/>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janghanju&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true"/>
-</a>
 
 </div>
